@@ -1,4 +1,4 @@
-package com.lzjf.pdf;
+package com.pdf;
 
 import com.itextpdf.text.*;
 import com.itextpdf.text.pdf.*;
